@@ -14,8 +14,4 @@ Lily58 Keyboard layout and configuration.
 
 ## TODO
 
-- [x] `-` no terminal não funciona | `MO 1`
-        - precisa ser `- _` para funcionar no terminal
-- [ ] símbolo de angulo no lado direto | `MO 2` 
-
 
