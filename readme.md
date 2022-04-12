@@ -14,4 +14,3 @@ Lily58 Keyboard layout and configuration.
 
 ## TODO
 
-
