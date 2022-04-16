@@ -9,8 +9,14 @@ Lily58 Keyboard layout and configuration.
 [layer 1](layer1.png)
 ![layer 1](layer1.png)
 
-[layer 2](layer1.png)
+[layer 2](layer2.png)
 ![layer 2](layer2.png)
+
+[layer 3](layer3.png)
+![layer 3](layer3.png)
+
+[layer 4](layer4.png)
+![layer 4](layer4.png)
 
 ## TODO
 
