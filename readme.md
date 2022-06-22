@@ -15,8 +15,5 @@ Lily58 Keyboard layout and configuration.
 [layer 3](layer3.png)
 ![layer 3](layer3.png)
 
-[layer 4](layer4.png)
-![layer 4](layer4.png)
-
 ## TODO
 
