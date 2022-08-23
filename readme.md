@@ -3,9 +3,9 @@
 
 Lily58 Keyboard layout and configuration.
 
-[Online Configurator https://config.qmk.fm](https://config.qmk.fm)
+Online Configurator [https://config.qmk.fm](https://config.qmk.fm)
 
-[Flash with `QMK Toolbox`](https://github.com/qmk/qmk_toolbox) 
+Flash with [`QMK Toolbox`](https://github.com/qmk/qmk_toolbox) 
 
 [layer 0](layer0.png)
 ![layer 0](layer0.png)
