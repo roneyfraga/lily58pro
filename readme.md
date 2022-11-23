@@ -19,8 +19,5 @@ Flash with [`QMK Toolbox`](https://github.com/qmk/qmk_toolbox)
 [layer 3](3.png)
 ![layer 3](3.png)
 
-[layer 4](3.png)
-![layer 3](3.png)
-
 ## TODO
 
