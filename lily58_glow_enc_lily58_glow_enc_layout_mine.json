@@ -3,7 +3,7 @@
   "notes": "",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "lily58/glow_enc",
-  "keymap": "lily58_glow_enc_layout_mine",
+  "keymap": "lily58_glow_enc_lily58_glow_enc_layout_mine",
   "layout": "LAYOUT",
   "layers": [
     [
@@ -24,8 +24,8 @@
       "KC_W",
       "KC_E",
       "KC_R",
-      "KC_T",
-      "KC_Y",
+      "LALT_T(KC_LGUI)",
+      "LALT(KC_Y)",
       "KC_U",
       "KC_I",
       "KC_O",
@@ -57,14 +57,14 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_NO",
-      "KC_LALT",
+      "KC_NO",
       "KC_LGUI",
       "MO(1)",
       "LSFT_T(KC_SPC)",
       "RSFT_T(KC_ENT)",
       "MO(2)",
       "KC_RGUI",
-      "KC_LALT"
+      "KC_NO"
     ],
     [
       "KC_F1",
@@ -117,14 +117,14 @@
       "KC_GT",
       "KC_QUES",
       "KC_NO",
-      "KC_TRNS",
+      "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
       "KC_ENT",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_RALT"
+      "KC_NO"
     ],
     [
       "KC_F1",
@@ -150,7 +150,7 @@
       "KC_RBRC",
       "KC_RCBR",
       "KC_DEL",
-      "KC_TAB",
+      "KC_RALT",
       "KC_TRNS",
       "KC_SCLN",
       "KC_MINS",
@@ -177,14 +177,14 @@
       "KC_GT",
       "KC_QUES",
       "KC_NO",
-      "KC_TRNS",
+      "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_SPC",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_RALT"
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -237,14 +237,14 @@
       "KC_3",
       "KC_PLUS",
       "KC_NO",
-      "KC_TRNS",
+      "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_0",
       "KC_0",
-      "KC_0"
+      "KC_NO"
     ]
   ],
   "author": ""
